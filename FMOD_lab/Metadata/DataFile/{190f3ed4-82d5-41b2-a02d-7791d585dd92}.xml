@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{190f3ed4-82d5-41b2-a02d-7791d585dd92}">
+		<property name="assetPath">
+			<value>Sci-Fi/PM_FSSF2_SPACE_RACER_GLIDER_PASSBY_5_RIGHT2LEFT.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0fc0fabb-00c4-401e-b8bb-c0cb2b5092d9}</destination>
+		</relationship>
+	</object>
+</objects>

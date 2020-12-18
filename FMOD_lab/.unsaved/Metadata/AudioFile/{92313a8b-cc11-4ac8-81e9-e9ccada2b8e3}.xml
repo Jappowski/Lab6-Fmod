@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{92313a8b-cc11-4ac8-81e9-e9ccada2b8e3}">
+		<property name="assetPath">
+			<value>SFX/483479__astounded__wind-blowing-through-castle-tower.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>80.170802083333328</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0fc0fabb-00c4-401e-b8bb-c0cb2b5092d9}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{054c8886-10d5-436c-8254-751a4ab1f213}">
+		<property name="assetPath">
+			<value>Sci-Fi/PM_FSSF2_EXOSKELETON_11_SERVO_MOVEMENT_ROTATION.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0fc0fabb-00c4-401e-b8bb-c0cb2b5092d9}</destination>
+		</relationship>
+	</object>
+</objects>
